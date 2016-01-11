@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Choosing its own VPS"
-date:   2016-01-06 18:53:42 +0100
-categories: server
----
-
-The price of VPS services has grealy shrinked during the last years.
