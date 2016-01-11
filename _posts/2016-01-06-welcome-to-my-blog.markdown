@@ -6,7 +6,7 @@ date:   2016-01-06 18:32:42 +0100
 
 # Welcome to my blog !
 
-Following the tracks of a particulary skillful (former) workmate, Yin Jin, that created [his own blog][yi-blog] and a [cloud-based data lab][yi-lab], here I come with the purpose of sharing my own experience!
+In this first post, I'm gonna try to explain why I've just created all this, just in case you wonder, and because I'm convinced it's curcial to formalize the purpose of a project before anything else.
 
 ## Why a blog ?
 ### Something to say/write ?
@@ -24,20 +24,26 @@ Again, the goal is sharing experience to help others, as others helped me a lot 
 The idea is here to provide another point of view about some culture or destination to travellers.
 
 ### Why doing it on a blog ?
+Simply in two lines :
 
-1. To have my own "piece of the web" on whic
+1. To get my own, independent "piece of the web"
 2. To reach the maximum number of you, people.
 
-I surely could write a post on Facebook or Linkedin but 
+I surely could write a post on Facebook or Linkedin but it would have been sadly limited to my personnal contacts...
+I also could write articles on a forum or platform like reddit, but I wouldn't have got as much liberty I'm enjoying with my blog.
+
+I also have to mention a particulary skillful (former) workmate, [Yin Jin][yi-linkedin], that created [his own blog][yi-blog] and a [cloud-based data lab][yi-lab]. He unintentionally triggered the construction of this blog : I'm humbly following his tracks with the purpose of sharing my own experience!
+
 ## Why in English ?
 I'm French but I will write every post in English, despite I'm totally aware that :
-- on one hand a lot of French people won't appreciate it because of the attachment we got about our language, culture and so on. 
-- on the other hand some English-speaking readers will suffer a lot from numerous spelling and grammar mistakes. (really, really, sorry about that) 
-The reason is, as I said before, that I don't want to take away the majority of the world on the grounds that they cannot read a language spoken by 
+- on one hand a lot of French people won't appreciate it, most likely because of we care a lot about our language and culture.
+- on the other hand some English-speaking readers will suffer a lot from numerous spelling and grammar mistakes. (I'm really, really sorry about that) 
+The reason is, as I said before, that I don't want to take away the majority of the world, on the grounds that they cannot read a [language spoken by 1% of the world's population](https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers).
 
 ## Can you explain in details how did you do that ?
 
-I will start by explaining why I chose Jekyll and github-pages to host my blog, then how to choose its VPS hosting service and finally I will describe how to create his own remote-computer using docker on top of the VPS.
+In the next section, I will start by explaining why I chose a static-website builder to host my blog, and why Jekyll and github-pages in particular. I will also write about another project of mine : buidling its own cloud-based services and remote-computer using docker on top of a VPS.
 
+[yi-linkedin]: https://www.linkedin.com/in/yjin88/fr
 [yi-blog]: http://jinyi.me/
 [yi-lab]: http://lab.jinyi.me/
