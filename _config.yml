@@ -1,6 +1,6 @@
-title:            Site Title
-description:      Describe your website here.
-disqus_shortname: hpstrtheme
+title:            Jean's
+description:      My corner of the web
+disqus_shortname: jeanlescut
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
@@ -9,10 +9,10 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Jean Lescut
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  bio:            "Data scientist the day, drumer the night"
+  email:          jean.lescut[a t]gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
