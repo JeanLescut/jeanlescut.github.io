@@ -5,8 +5,6 @@ date:   2016-01-06 18:53:42 +0100
 categories: server
 ---
 
-# Building its cloud, part 1 : choosing the right server
-
 Before starting to (bricoler) our cloud on a distant server, we wanna get one, right?
 
 ## Owning vs Renting a server
