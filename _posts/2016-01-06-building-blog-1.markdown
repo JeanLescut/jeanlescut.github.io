@@ -4,8 +4,6 @@ title:  'Building a blog, part 1 : "Dynamic website" vs. "Flat-file website" vs.
 date:   2016-01-11 11:43:42 +0100
 ---
 
-# Building a blog, part 1: "Dynamic" vs "Flat-file" vs "Static" websites
-
 You want to settle your own island and the Web ocean? Fine, it's your choice. But here we're gonna explain the second choice you'll have to face, taking into consideration your technical skills level and the needs for your website.
 
 ## Dynamic website
