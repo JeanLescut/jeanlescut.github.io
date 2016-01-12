@@ -4,8 +4,6 @@ title:  "Welcome to my blog!"
 date:   2016-01-06 18:32:42 +0100
 ---
 
-# Welcome to my blog !
-
 In this first post, I'm gonna try to explain why I've just created all this, just in case you wonder, and because I'm convinced it's curcial to formalize the purpose of a project before anything else.
 
 ## Why a blog ?
