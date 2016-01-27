@@ -3,7 +3,7 @@ layout: post
 title: Personal Thoughts : The hidden, internal competition of employees
 ---
 
-This topic is not proper to my sector of activity (Consulting) and you certainly have your own opinion about it. You may argue that competing against each other is life, and challenging is a efficient driver of skill improvement. Or you just don't accept the idea, or are skeptical about it, like me.
+This topic is not proper to my sector of activity (Consulting) and you certainly have your own opinion about it. You may argue that competing against each other is just life, and that challenging is a efficient driver of skill improvement. In contrary, you could just not accept the idea, or are skeptical about it, like me.
 
 # Competing culture vs Challenging culture
 
