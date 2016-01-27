@@ -8,7 +8,7 @@ Welcome to my blog ! This is my piece of web that will handle several topics... 
 
 #### Data-sience and technologies
 
-I love technology & data-science (it's my job). I will certainly write a lot about it, either to express an opinion, to share a project, or to present technical solution that I couldn't find elsewhere on the web (the community on the web appeared to be helpful to me so many times... I certainly owe that)
+I love technology & data-science (it's my job). I will certainly write a lot about it, either to express an opinion, to share a project, or to present technical solution that I couldn't find elsewhere on the web (the community on the web appeared to be very helpful to me... so I certainly owe that)
 
 <img src="http://cdn.meme.am/instances/64061325.jpg" />
 
